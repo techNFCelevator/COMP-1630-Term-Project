@@ -1,0 +1,73 @@
+﻿
+(18 rows affected)
+
+(11 rows affected)
+
+(16 rows affected)
+
+(5 rows affected)
+
+(45 rows affected)
+
+(10 rows affected)
+
+(10 rows affected)
+
+(8 rows affected)
+
+(21 rows affected)
+
+(3 rows affected)
+
+(2 rows affected)
+
+(11 rows affected)
+
+(9 rows affected)
+
+(22 rows affected)
+
+(1 row affected)
+
+(5 rows affected)
+
+(1 row affected)
+
+(6 rows affected)
+
+(2 rows affected)
+
+(1 row affected)
+
+(11 rows affected)
+
+(18 rows affected)
+
+(1 row affected)
+
+(6 rows affected)
+
+(13 rows affected)
+
+(10 rows affected)
+
+(12 rows affected)
+
+(24 rows affected)
+
+(7 rows affected)
+
+(1 row affected)
+
+(1 row affected)
+
+(3 rows affected)
+
+(1 row affected)
+Msg 2627, Level 14, State 1, Procedure InsertShippers, Line 19 [Batch Start Line 282]
+Violation of PRIMARY KEY constraint 'PK__Shippers__1F8AFFB96E5DD47F'. Cannot insert duplicate key in object 'dbo.Shippers'. The duplicate key value is (4).
+The statement has been terminated.
+
+(3 rows affected)
+
+Completion time: 2023-03-23T22:55:53.1444206-07:00
